@@ -25,7 +25,7 @@ rospack profile
 
 -gencode arch=compute_72,code=sm_72
 
-** 카메라를 사용하는 ROS 프로그램이 실행
+** usb 카메라를 사용하는 ROS 프로그램 실행
 
 sudo apt install ros-melodic-usb-cam
 
