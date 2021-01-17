@@ -23,7 +23,9 @@ rospack profile
 
 ** jetson xavier: 7.2  (https://en.wikipedia.org/wiki/CUDA#Supported_GPUs)
 
--gencode arch=compute_72,code=sm_72
+** add it into darknet_ros/CMakeLists.txt. 
+
+** -gencode arch=compute_72,code=sm_72
 
 ** usb 카메라를 사용하는 ROS 프로그램 실행
 
