@@ -1,3 +1,8 @@
+
+# avoidance
+https://swiftcam.tistory.com/274
+https://github.com/PX4/PX4-Avoidance#run-on-hardware
+
 # deep-learn
 https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/
 
